@@ -1,0 +1,15 @@
+{
+  "name": "Star+",
+  "description": "Pushes Continue Watching to the top",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_security_policy": "object-src 'self'; script-src 'self' 'sha256-pfsjZuZItpjQK7P+6ToRv36D6FVVd3xShNM5oll/zI0='",
+  "content_scripts": [
+    {
+        "matches": [
+          "*://www.starplus.com/*"
+        ],
+        "js": ["script.js"]
+    }
+  ]
+}
