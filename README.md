@@ -11,3 +11,7 @@ This extension works on Google Chrome and Microsoft Edge.
 - Toggle Developer Mode
 - Select 'Load Unpacked'
 - Select the starplus folder and you're good to go
+
+## Result
+
+![StarPlus screenshot](https://raw.githubusercontent.com/LucasXavier2/StarPlus-extension/main/screenshot.png)
